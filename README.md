@@ -1,2 +1,0 @@
-# Individual-Project
-Class Project
